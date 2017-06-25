@@ -12,7 +12,7 @@ To manually build:
   
 Example usage:
 
-  docker run -it -v /dev/snd:/dev/snd --privileged centos-py /bin/bash
+  docker run -it -v /dev/snd:/dev/snd --privileged centos7-speech /bin/bash
  
 and run:
 
